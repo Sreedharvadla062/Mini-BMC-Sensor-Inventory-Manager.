@@ -1,0 +1,6 @@
+mini_bmc
+*.o
+*.log
+logs/system.log
+.DS_Store
+Thumbs.db
