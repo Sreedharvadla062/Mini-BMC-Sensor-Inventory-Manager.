@@ -1,0 +1,1 @@
+# Mini-BMC-Sensor-Inventory-Manager.
